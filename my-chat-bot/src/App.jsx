@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Change <code>src/App.jsx</code> and blah blah blah
         </p>
       </div>
       <p className="read-the-docs">
